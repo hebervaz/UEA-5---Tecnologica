@@ -1,0 +1,22 @@
+/*Primera página*/
+
+body{
+    background-color: rgb(255, 234, 200);
+    color: rgb(194, 87, 0);
+}
+
+
+
+
+/*Segunda página*/
+.body-dos{
+    background-color: rgb(225, 225, 225);
+    color: brown;
+    font-size: 200%;
+    text-align: center;
+}
+
+img{
+    width: 80%;
+    height: auto;
+}

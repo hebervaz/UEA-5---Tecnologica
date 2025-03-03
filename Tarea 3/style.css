@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+    
+}
+
+header{
+    background-color: midnightblue;
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+div{
+    background-color: rgb(217, 246, 255);
+}
+
+p{
+    margin: 10px;
+    font-size: 25px;
+}

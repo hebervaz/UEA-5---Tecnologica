@@ -22,8 +22,6 @@ ctx.clearRect(20, 10, 150, 100);
 ctx.closePath();
 ctx.fill();
 
-ctx.beginPath();
-ctx.arc(120, 300, 100, 0, 2*matchMedia.PI);
-ctx.stroke();
+
 
 
